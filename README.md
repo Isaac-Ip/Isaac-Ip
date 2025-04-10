@@ -22,7 +22,8 @@
   <a href="https://www.apple.com/ca/ios/"><img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS"></a>
 </p>
 
-<h2>Tools</h2>
+## Tools
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+<img src="coding.gif" alt="coding"/>
